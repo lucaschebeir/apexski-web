@@ -27,7 +27,7 @@ body {
   line-height: 1.6;
 }
 .hero {
-  background: url("./img/hero-img.jpeg");
+  background: url("./hero-img.jpeg");
   background-size: cover;
   background-position: center bottom; /* Aligns image bottom with container bottom */
   color: var(--light-text-color);
